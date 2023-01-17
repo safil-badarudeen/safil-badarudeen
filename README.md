@@ -47,8 +47,4 @@ I am a full-stack MERN developer with a strong understanding of the MERN stack, 
 
 <b>Top Repositories</b>
 
-<div width="100%" align="center"><a href="https://github.com/safil-badarudeen/E-commerce-API-Node" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=safil-badarudeen&repo=E-commerce-API-Node&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/safil-badarudeen/Movie-App--React-Redux-axios-" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=safil-badarudeen&repo=Movie-App--React-Redux-axios-&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
-
-<br /><br /><br /><br /><br />
-
-<div width="100%" align="center"><a href="https://github.com/safil-badarudeen/SocialMedia-MERN" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=safil-badarudeen&repo=SocialMedia-MERN&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/safil-badarudeen/cognitiveLeap" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=safil-badarudeen&repo=cognitiveLeap&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
+<div width="100%" align="center"></div><br /><br /><br /><br /><br /><br /><br />
