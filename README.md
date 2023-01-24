@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 MERN stack developer
 --------------------
 
-I am a full-stack MERN developer with a strong understanding of the MERN stack, including MongoDB, Express, React, and Node.js. I have completed my learning of MERN stack and have hands-on experience on multiple projects. I am eager to continue expanding my knowledge and skills in the field of web development. I am currently seeking new opportunities to showcase my abilities and work with industry experts to continue my growth as a developer. In the near future, I am planning to learn more technologies like Data Structures & Algorithms, Continous Integration and Continous Deployment, TypeScript, Python. I am highly motivated, quick learner and want to work in a challenging and dynamic work environment where I can deliver my best. I am confident that my skills and experience would be a valuable asset to any team, and I look forward to the opportunity to discuss how I can contribute to your organization.
+I am a full-stack MERN developer with a strong understanding of the MERN stack, including MongoDB, Express, React, and Node.js with hands-on experience on multiple projects.
 
 * 🌍  I'm based in INDIA
 * 🖥️  See my portfolio at [safilbadarudeen](http://github.com/safil-badarudeen)
