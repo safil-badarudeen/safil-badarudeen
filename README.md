@@ -9,7 +9,7 @@ I am a full-stack MERN developer with a strong understanding of the MERN stack, 
 * 🌍  I'm based in INDIA
 * 🖥️  See my portfolio at [safilbadarudeen](http://github.com/safil-badarudeen)
 * ✉️  You can contact me at [safilthedev@gmail.com](mailto:safilthedev@gmail.com)
-* 🧠  I'm learning DSA & TypeScript
+* 🧠  I'm learning DSA &TypeScript
 * 🤝  I'm open to collaborating on MERN projects & projects that can challenge me (So i can improve my skill)
 * ⚡  soonToTheTop
 
